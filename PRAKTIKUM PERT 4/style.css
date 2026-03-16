@@ -1,0 +1,23 @@
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    /* text-align: center; */
+
+    color: black;
+
+}
+
+.box {
+    background-color: blue;
+    /* width: 50px;
+    height: 150px; */
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    padding: 20px;
+    /* padding-left: 30px; */
+    /* display: none; */
+    /* display: block; */
+    display: inline;
+}
